@@ -102,7 +102,7 @@ void draw() {
    rect(star4x, star4y, 30, 5);
    rect(star4x, star4y, 5, 30);
 
-   // Patas
+   // Paws
    fill(#a7a7a7);
    stroke(0, 255);
    strokeWeight(8);
